@@ -1,5 +1,3 @@
-# week 11
-
 # Exercise 10 section 4
 library(ISLR)
 attach(Weekly)
@@ -93,25 +91,3 @@ print(correct)
 # THe model that predicts correctly most of the time is the GLM model 
 # with only one predictor and the LDA model with 62.5% of the predictions 
 # correct. We will therefore choose one of these models.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
