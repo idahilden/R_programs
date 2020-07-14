@@ -1,4 +1,3 @@
-# Week 10
 # Exercise 5, 10, 11 and 12 from Section 7 
 
 # Exercise 10
