@@ -1,5 +1,3 @@
-# week 8
-
 # Exercise 9 section 7
 set.seed(15)
 library(MASS)
@@ -86,6 +84,3 @@ plot(3:20, cv.errors[-c(1,2)], xlab = "Degrees of freedom",
 title("Degrees of freedom for a regression spline")
 # Very jumpy cv-error. Lowest around 12, so we choose 12 as the optimum degrees of freesom
 # for a regression spline with this data.
-
-
-
