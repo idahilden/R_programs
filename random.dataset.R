@@ -55,13 +55,3 @@ summary(glm(y~poly(x,4)))
 # In all the model 2 all variables are significant
 # in the first model the linear term is not significant
 # this is in agreement with the cv.errors.
-
-
-
-
-
-
-
-
-
-
