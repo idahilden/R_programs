@@ -1,6 +1,3 @@
-# Week 13 exercises 3 and 9 section 8
-#         exercises 3 and 7 section 9
-
 # Exercise 3
 
 
@@ -175,10 +172,3 @@ plotpairs = function(fit) {
 }
 
 detach(Auto)
-
-
-
-
-
-
-
