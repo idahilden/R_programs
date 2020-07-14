@@ -83,25 +83,3 @@ points(4, bwd.summary$bic[4], col="red", cex=2, pch=20)
 # eventhough all the models sugest that we should choose a larger p,
 # there is little evidence from the plots that there are much improvements
 # in the models with a larger p than what we have chosen.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
