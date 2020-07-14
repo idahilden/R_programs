@@ -1,6 +1,7 @@
 # R_programs
 
 Programs created as part of the course STK2100: Machine Learning and Statistical Methods for Prediction and Classification.
+
 Covers topics such as:
 - linear regression
 - variable transformations, multivariate outcome and computational aspects
