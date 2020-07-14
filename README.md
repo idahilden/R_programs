@@ -1,6 +1,6 @@
 # R_programs
 
-Programs created as part of the course STK2100: Machine Learning and Statistical Methods for Prediction and Classification.
+Programs created as part of the course STK2100: Machine Learning and Statistical Methods for Prediction and Classification at the University of Oslo.
 
 Covers topics such as:
 - linear regression
